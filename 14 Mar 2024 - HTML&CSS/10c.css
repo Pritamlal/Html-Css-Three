@@ -1,0 +1,51 @@
+.all{
+    box-shadow:0 0 5px rgb(0,0,0,0.5);
+    width: 650px;
+    border-radius:10px;
+}
+
+
+.first{
+    display:inline-block;
+}
+.profile-ph{
+    display:inline-block;
+}
+.photo
+{
+    width:350px;
+    height:200px;
+    margin-left:20px;
+    margin-top:20px;
+
+}
+.photo:hover
+{
+ opacity:0.5;
+}
+
+.sentence
+{
+    display:inline-block;
+    margin-left:15px;
+    vertical-align:top;
+}
+.sentence1
+{
+    font-family:'Courier New', Courier, monospace;
+    font-size:19px;
+    font-weight: bold;
+    width:250px;
+}
+.sentence2
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    font-size:17.5px;
+}
+.sentence3
+{
+    font-family:'Courier New', Courier, monospace;
+    color:gray;
+    font-size:16px;
+}

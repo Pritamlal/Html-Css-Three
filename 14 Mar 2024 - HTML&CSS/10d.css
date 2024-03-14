@@ -1,0 +1,65 @@
+.profile
+{
+    box-shadow: 0 0 5px rgb(0,0,0,0.9);
+    width:190px;
+    height:290px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-right:15px;
+    margin-left:10px;
+    margin-top:40px;
+   
+}
+
+.image
+{
+    width:180px;
+    height:130px;
+    margin-bottom:15px;
+    margin-left:5px;
+}
+
+.word1
+{
+    font-family: arial;
+    font-weight: bold;
+    font-size:16px;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:8px;
+
+}
+.small-image
+{
+    width:50px;
+    height:50px;
+    border-radius: 25px;
+    border-right:15px;
+   
+    margin-left:4px
+}
+.word2
+{
+  display:inline-block;
+  vertical-align:top;
+  color:gray;
+  font-weight:bold;
+}  
+
+.btn
+{
+    margin-top:15px;
+    background-color: aqua;
+    width:110px;
+    height:40px;
+    border-radius:5px;
+    margin-left:5px;
+}
+
+.all
+{
+    width: 700px;
+    height:370px;
+    box-shadow: 0 0 5px rgb(0,0,0,0.9);
+    
+}
